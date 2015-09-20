@@ -10,7 +10,7 @@
 
 @implementation NSString (Size)
 
-- (CGSize)testSizeWithFont:(UIFont *)font{
+- (CGSize)textSizeWithFont:(UIFont *)font{
    return  [self textSizeWithFont:font constrainedToSize:CGSizeZero lineBreakMode:NSLineBreakByWordWrapping];
 }
 

@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import <UIKit/UIKit.h>
 @interface NSString (Size)
 
 /**
@@ -17,7 +17,7 @@
  *
  *  @return 大小
  */
-- (CGSize)testSizeWithFont:(UIFont *)font;
+- (CGSize)textSizeWithFont:(UIFont *)font;
 
 /*
  *  获取字符串的CGSize

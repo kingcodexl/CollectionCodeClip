@@ -274,3 +274,9 @@ return nil; \
 { \
 return self; \
 }
+//##########################    My  #################//
+//----------------------weak/strong----------------------------
+// 快速宏定义weakself
+#define WeakSelf(weakSelf)  __weak __typeof(&*self)weakSelf = self;
+// 快速宏定义__block
+#define KBlockObj(blockName,objName)  __block typeof(&*objName) blockName = objName

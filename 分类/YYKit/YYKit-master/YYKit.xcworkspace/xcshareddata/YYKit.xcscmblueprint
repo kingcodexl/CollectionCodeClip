@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A529D7B8225000A0BFC4C1F71BB445EFE716A38E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A543FC24CC1208208C2CD4E7A99723A2A77B626D" : 0,
+    "A529D7B8225000A0BFC4C1F71BB445EFE716A38E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D68C93EB-F54C-49A1-B72C-DFEAD2DBEC7F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A543FC24CC1208208C2CD4E7A99723A2A77B626D" : "",
+    "A529D7B8225000A0BFC4C1F71BB445EFE716A38E" : "CollectionCodeClip\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YYKit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "分类\/YYKit\/YYKit-master\/YYKit.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kingcodexl\/CollectionCodeClip.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A529D7B8225000A0BFC4C1F71BB445EFE716A38E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kingcodexl\/WorkTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A543FC24CC1208208C2CD4E7A99723A2A77B626D"
+    }
+  ]
+}
